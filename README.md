@@ -23,7 +23,7 @@
   - 참조 : 캐글 노트북 [link](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset), 정리 파일 [ipynb]()
 3. Step by Step Diabetes Classification-KNN-detailed
   - 일자 : 2021.07.14(수) / 발표자 : 김현준 github
-  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed), 정리 파일 [ipynb]()
+  - 참조 : 캐글 노트북 [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed), 정리 파일 [ipynb](https://github.com/hyunjun33/Machine_learning_group_study/blob/main/Diabetes_dataset_KNN_classification_analysis.ipynb)
 4.  Comprehensive data exploration with Python
   - 일자 : 2021.07.21(수) / 발표자 : 양효진 github
   - 참조 : 캐글노트북 [link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), 정리 파일 [ipynb]()
